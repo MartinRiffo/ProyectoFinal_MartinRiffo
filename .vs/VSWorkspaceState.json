@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProyectoFinal_MartinRiffo",
+    "\\ProyectoFinal_MartinRiffo\\src",
+    "\\ProyectoFinal_MartinRiffo\\src\\app",
+    "\\ProyectoFinal_MartinRiffo\\src\\app\\components",
+    "\\ProyectoFinal_MartinRiffo\\src\\app\\components\\header",
+    "\\ProyectoFinal_MartinRiffo\\src\\app\\components\\logo-ap"
   ],
-  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
